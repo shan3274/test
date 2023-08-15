@@ -1,5 +1,0 @@
-{{#user}
-Name: Shan Khan
-Skills: C++ Programming,HTML, CSS, JS, Next.js, JavaScript,Firebase,Java,Tailwind,Linux
-Email: khanshan949@gmail.com
-{{/user}}
